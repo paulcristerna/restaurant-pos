@@ -1,0 +1,57 @@
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe.config
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.pdb
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Form1.resources
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Properties.Resources.resources
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.exe
+C:\Users\Hector\Desktop\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.pdb
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe.config
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.exe
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.pdb
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.pdb
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Form1.resources
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Properties.Resources.resources
+C:\Users\Hector\Desktop\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csproj.GenerateResource.Cache
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe.config
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.exe
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.pdb
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.pdb
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Form1.resources
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Properties.Resources.resources
+C:\Users\Hector\Desktop\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe.config
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.exe
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.pdb
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.pdb
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Form1.resources
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Properties.Resources.resources
+C:\Users\admin\Documents\Restaurant\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe.config
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.exe
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.pdb
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.pdb
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Form1.resources
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Properties.Resources.resources
+C:\Users\admin\Documents\Restaurant Nuevo\Sistema de Restaurant 2015 - copia\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe.config
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.exe
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.pdb
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.exe
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\bin\Debug\Sistema_Restaurant.pdb
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Form1.resources
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Menu.resources
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Properties.Resources.resources
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Pedidos.resources
+C:\Users\admin\Documents\Sistema Restaurant\Sistema_Restaurant\Sistema_Restaurant\obj\Debug\Sistema_Restaurant.Empleados.resources
